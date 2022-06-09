@@ -1,0 +1,20 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+h1 {
+    text-align: center;
+    color: orange;
+}
+
+p {
+    color: orange;
+    text-align: left;
+}
+
+p j {
+    background-color: yellow ;
+    color: blue;
+    text-align: center;
+
+}
